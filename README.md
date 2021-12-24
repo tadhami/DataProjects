@@ -5,8 +5,7 @@ using the following tutorial sites: https://towardsdatascience.com/data-science-
 https://towardsdatascience.com/elegant-way-to-make-data-talk-stories-exploratory-data-analysis-783e68837a2
 and I used some of the information I learned from those in the process of building larger projects where I could apply multiple topics I learned towards something new.
 I thought about including those earlier projects too, but thought that it would be a better demonstration of what I can do if 
-I built a project where I applied everything I practiced (and applied those things to data that align with some of my hobbies) and included
-that instead.
+I built a project where I applied everything I practiced (and applied those things to data that align with some of my hobbies).
 
 My next goal for these projects is to generate predictive models for them, so that is personally what I want to learn next. 
 
