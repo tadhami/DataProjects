@@ -10,18 +10,18 @@ that instead.
 
 My next goal for these projects is to generate predictive models for them, so that is personally what I want to learn next. 
 
-Project 3: Web Scraping, Data Cleaning, and Exploratory Data Analysis using MyAniList top 100\n
-Duration: 3 months
-Technologies used: Python3, Jupyter Notebook
-- Programmed a web scraper to generate a dataset of anime from the MyAniList top 100
-- Cleaned up and modified the dataset in preparation for statistical analysis and data visualization
-- Performed statistical analysis and generated plots/visualized data from dataset
+Project 3: Web Scraping, Data Cleaning, and Exploratory Data Analysis using MyAniList top 100
+- Duration: 3 months
+- Technologies used: Python3, Jupyter Notebook
+  - Programmed a web scraper to generate a dataset of anime from the MyAniList top 100
+  - Cleaned up and modified the dataset in preparation for statistical analysis and data visualization
+  - Performed statistical analysis and generated plots/visualized data from dataset
 
 Pokemon Project: Exploratory data analysis on the Pokemon Dataset
-Duration: 2 weeks 
-Technologies used: Python3, Jupyter Notebook
-- Read in CSV file to generate a dataset
-- Cleaned up and modified the dataset in preparation for statistical analysis and data visualization
-- Performed statistical analysis and generated plots/visualized data from dataset
+- Duration: 2 weeks 
+- Technologies used: Python3, Jupyter Notebook
+  - Read in CSV file to generate a dataset
+  - Cleaned up and modified the dataset in preparation for statistical analysis and data visualization
+  - Performed statistical analysis and generated plots/visualized data from dataset
 
 
