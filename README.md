@@ -10,7 +10,7 @@ that instead.
 
 My next goal for these projects is to generate predictive models for them, so that is personally what I want to learn next. 
 
-Project 3: Web Scraping, Data Cleaning, and Exploratory Data Analysis using MyAniList top 100
+Project 3: Web Scraping, Data Cleaning, and Exploratory Data Analysis using MyAniList top 100\n
 Duration: 3 months
 Technologies used: Python3, Jupyter Notebook
 - Programmed a web scraper to generate a dataset of anime from the MyAniList top 100
