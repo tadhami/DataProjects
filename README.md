@@ -8,6 +8,7 @@ I thought about including those earlier projects too, but figured that it would 
 I built a project where I applied everything I practiced (and applied those things to data that align with some of my hobbies) and included
 that instead.
 
+My next goal for these projects is to generate predictive models for them, so that is personally what I want to work on learning next. 
 
 
 
